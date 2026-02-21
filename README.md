@@ -120,10 +120,6 @@ Seorang **IT Project Manager** yang berpengalaman memimpin tim lintas fungsi dal
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Couraa0&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-[![Rakha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Couraa0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true&cache_seconds=1800)](https://github.com/Couraa0)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Couraa0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800)](https://github.com/Couraa0)
-
 </div>
 
 ---
